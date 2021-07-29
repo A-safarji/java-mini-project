@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author toby
+ * @author A.Safarji
  */
 public class Strong {
 
